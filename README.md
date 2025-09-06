@@ -1,5 +1,7 @@
 # 🛒 Amazon Product Scraper
 
+> ⚠️ **Note:** The following Python code is for **learning and educational purposes only**. Do **not** use it for scraping Amazon or other websites without proper permission, as it may violate their terms of service.
+
 This project is a Python-based web scraper for Amazon products. It uses **Selenium (with undetected-chromedriver)** and **BeautifulSoup** to collect product details such as:  
 
 - Product name  
