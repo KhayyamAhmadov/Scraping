@@ -40,7 +40,7 @@ pip install selenium beautifulsoup4 undetected-chromedriver tqdm
 4. Extracts details (name, rating, reviews, etc.).  
 5. Saves the data into `amazon_products.json`.  
 
---
+---
 
 ## 📝 Code Structure
 - `save_data()` → Saves scraped data into JSON file.  
@@ -50,7 +50,7 @@ pip install selenium beautifulsoup4 undetected-chromedriver tqdm
 - Product page scraper → Collects details such as name, rating, category, description, reviews.  
 - Incremental save → Data is saved automatically after every 10 products.
 
---
+---
 
 ## 📂 Output Example
 
